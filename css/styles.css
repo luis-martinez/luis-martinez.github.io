@@ -3,21 +3,32 @@ body {
   color: #FFF;
 }
 
-footer{
-  background-color: #45c78b;
-}
-
-.center {
-    text-align: center;
-}
-
 .box {
-  margin-left: auto;
-  margin-right: auto;
-  padding-left: 10px;
-  padding-right: 10px;
-  font-size: 15px;
-  line-height: 1.4;
-  padding-top: 100px;
-  padding-bottom: 100px;
+	//margin-left: auto;
+	//margin-right: auto;
+	padding-left: 15px;
+	padding-right: 15px;
+	font-size: 1em;
+	line-height: 1.4;
+	padding-top: 7.5em;
+	padding-bottom: 7.5em;
+}
+
+.work {
+	background-color: #ABCECF;
+}
+
+.about {
+	background-color: #112D4E;
+}
+
+.contact {
+	background-color: #222831;
+}
+
+footer {
+	text-align: center;
+	background-color: #0C056D;
+	padding-top: 1em;
+	padding-bottom: 1em;
 }
