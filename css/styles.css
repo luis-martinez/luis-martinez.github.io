@@ -15,7 +15,7 @@ body {
 }
 
 .work {
-	background-color: #ABCECF;
+	background-color: #313131;
 }
 
 .about {
@@ -28,7 +28,8 @@ body {
 
 footer {
 	text-align: center;
-	background-color: #0C056D;
+	background-color: #ABCECF;
 	padding-top: 1em;
 	padding-bottom: 1em;
+	color: #000;
 }
