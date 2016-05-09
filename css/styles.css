@@ -25,6 +25,15 @@ body {
 
 .contact {
 	background-color: #222831;
+	text-align: center;
+}
+
+.icon-contact {
+	color: #FFF;
+}
+
+.icon-contact:hover {
+	color: #FF5722;
 }
 
 footer {
@@ -34,3 +43,6 @@ footer {
 	padding-bottom: 1em;
 	color: #000;
 }
+
+
+
