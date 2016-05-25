@@ -15,7 +15,19 @@ body {
 	padding-bottom: 7.5em;
 }
 
-.work {
+.android-just-java {
+	background-color: #36c457;
+}
+
+.android-court-counter {
+	background-color: #2c9344;
+}
+
+.ios-food-tracker {
+	background-color: #ABCECF;
+}
+
+.web {
 	background-color: #313131;
 }
 
@@ -48,4 +60,15 @@ footer {
 
 .label-python {
 	background-color: #d1d116;
+}
+
+/* center image in teh carousel */
+.carousel-inner img {
+  margin: auto;
+}
+
+/* No background in the carousel arrows */
+.carousel-control.left,
+.carousel-control.right {
+  background-image: none;
 }
