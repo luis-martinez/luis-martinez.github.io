@@ -66,8 +66,24 @@ footer {
 }
 
 
-.label-python {
-	background-color: #d1d116;
+.label-html5 {
+	background-color: #1689d1;
+}
+
+.label-css {
+	background-color: #ea8715;
+}
+
+.label-js {
+	background-color: #d8cc39;
+}
+
+.label-node {
+	background-color: #2c9344;
+}
+
+.label-express {
+	background-color: #ABCECF;
 }
 
 /* center image in teh carousel */
