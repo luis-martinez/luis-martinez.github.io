@@ -36,16 +36,16 @@ body {
 }
 
 .web {
-	background-color: #313131;
+	background-color: #2b7495;
 }
 
 .about {
-	background-color: #112D4E;
+	background-color: #448bde;
 	text-align: center;
 }
 
 .contact {
-	background-color: #222831;
+	background-color: #cb3c3c;
 	text-align: center;
 }
 
@@ -54,12 +54,12 @@ body {
 }
 
 .icon-contact:hover {
-	color: #FF5722;
+	color: #9c1ff7;
 }
 
 footer {
 	text-align: center;
-	background-color: #ABCECF;
+	background-color: #37e293;
 	padding-top: 1em;
 	padding-bottom: 1em;
 	color: #000;
