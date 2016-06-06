@@ -42,11 +42,15 @@ body {
 .about {
 	background-color: #448bde;
 	text-align: center;
+	padding-left: 7em;
+	padding-right: 7em;
 }
 
 .contact {
-	background-color: #cb3c3c;
+	background-color: #c33434;
 	text-align: center;
+	padding-left: 7em;
+	padding-right: 7em;
 }
 
 .icon-contact {
@@ -54,12 +58,12 @@ body {
 }
 
 .icon-contact:hover {
-	color: #9c1ff7;
+	color: #903bce;
 }
 
 footer {
 	text-align: center;
-	background-color: #37e293;
+	background-color: #4ccc91;
 	padding-top: 1em;
 	padding-bottom: 1em;
 	color: #000;
